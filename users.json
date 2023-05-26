@@ -1,1 +1,16 @@
-[{"id":1,"name":"Ken","email":"ken@gmail.com","password":"kendahana"},{"id":2,"name":"viqram","email":"viqram","password":"viqram"},{"id":3,"name":"fahrizal","email":"fahrizal@gmail.com","password":"fahrizal"},{"id":4,"name":"test","email":"test","password":"test"},{"name":"Hendra","email":"hendra","password":"hendra"}]
+[
+    {
+        "id": 1,
+        "name": "Ken",
+        "email": "ken@gmail.com",
+        "password": "kendahana"
+    },
+    { "id": 2, "name": "viqram", "email": "viqram", "password": "viqram" },
+    {
+        "id": 3,
+        "name": "fahrizal",
+        "email": "fahrizal@gmail.com",
+        "password": "fahrizal"
+    },
+    { "id": 4, "name": "test", "email": "test", "password": "test" }
+]
